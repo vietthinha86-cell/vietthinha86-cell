@@ -1,4 +1,4 @@
-## Hi there 👋
+## Skill: Java, TypeScript, C Sharp Game Dev.
 
 <!--
 **vietthinha86-cell/vietthinha86-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
